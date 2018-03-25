@@ -23,7 +23,7 @@ __This text__ is Strong
 
 
 <!-- Strikethrough -->
-˜˜This text˜˜ is Strikethrough
+~~This text~~ is Strikethrough
 
 
 
@@ -73,7 +73,6 @@ ___
 <!--Github Markdowns-->
 
 
-
 <!-- code blocks -->
 
 ```bash
@@ -91,8 +90,8 @@ ___
 
 | Name     | Email          |
 | -------- | -------------- |
-| John Doe | john@gmail.com |
-| Jane Doe | jane@gmail.com |
+| Nitesh Kumar | niteshgnit3@gmail.com |
+| Nitesh Srivastava | niteshsrivastava1@hotmail.com |
 
 
 <!-- Task List -->
@@ -100,4 +99,4 @@ ___
 
 * [x] Task 2 
 
-* [] Task 1 
+* [] Task 3 
